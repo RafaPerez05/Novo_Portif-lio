@@ -1,0 +1,90 @@
+{
+    "extracted_information": "This portfolio website belongs to Rafael Perez Silva, a Developer/Designer. It features an 'About' section detailing his education and passion for technology, a 'Skills' section (represented by images), a 'Projects' section showcasing various development and design works, and a 'Contact' form.",
+    "specifications": {},
+    "pricing": {},
+    "features": [
+        {
+            "section": "Personal Information",
+            "name": "Rafael Perez Silva",
+            "title": "Developer/Designer",
+            "introduction": "Olá! Sou Rafael, um profissional apaixonado por tecnologia."
+        },
+        {
+            "section": "About Me",
+            "content": "Formado em Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente. Desenvolvedor Full Stack e Especialista em design UX, minha paixão por novas técnologias e curiosidade me fazem sempre estar buscando evoluir na área da técnologia. Possuo habilidades interpessoais, como comunicação eficaz, resolução de problemas, criatividade, empatia, flexibilidade e proatividade, que enriquecem minha experiência e contribuem para minha eficácia como programador. Tenho 20 anos e amo ."
+        },
+        {
+            "section": "Skills",
+            "technical_knowledge": "Skills represented by images, specific names not provided in text (12 distinct images).",
+            "software_skills": "Skills represented by images, specific names not provided in text (6 distinct images)."
+        },
+        {
+            "section": "Projects",
+            "list": [
+                {
+                    "name": "Aplicativo",
+                    "description": "Aplicativo mobile desenvolvido com React-native.",
+                    "link": "https://github.com/RafaPerez05/-rastreiaagro"
+                },
+                {
+                    "name": "Página de chat",
+                    "description": "Landing Page criada para um sistema de chat fictício."
+                },
+                {
+                    "name": "Ecommerce",
+                    "description": "Site de vendas desenvolvido usado técnicas de modelagem e padrões de projetos.",
+                    "link": "https://github.com/RafaPerez05/TocadoBoi"
+                },
+                {
+                    "name": "Flyer de divulgação",
+                    "description": "Flyer criado para divulgar a presença da Aguardente em um evento."
+                },
+                {
+                    "name": "Site educacional",
+                    "description": "Site desenvolvido para aprendizado de estruturas de dados.",
+                    "link": "https://github.com/Yan0606/Ambiente-E.D"
+                },
+                {
+                    "name": "Flyer para post",
+                    "description": "Flyer criado para uma marca de tereré para postar nas redes sociais."
+                },
+                {
+                    "name": "Página de Vendas",
+                    "description": "Protótipo de um site de vendas feito com PHP seguindo o padrao MVC.",
+                    "link": "https://github.com/RafaPerez05/xhopii-final-v3"
+                }
+            ],
+            "categories": [
+                "Todos",
+                "Designs",
+                "Projetos"
+            ]
+        },
+        {
+            "section": "Contact Information",
+            "call_to_action": "Mande-me uma mensagem",
+            "form_fields": [
+                "Nome",
+                "Email",
+                "Mensagem"
+            ],
+            "social_media": [
+                {
+                    "platform": "Instagram",
+                    "link": "https://www.instagram.com/rafaa_per3z/"
+                }
+            ]
+        },
+        {
+            "section": "Education",
+            "degree": "Análise e Desenvolvimento de Sistemas",
+            "institution": "Fatec de Presidente Prudente"
+        }
+    ],
+    "statistics": {},
+    "temporal_info": {
+        "copyright_year": "2023"
+    },
+    "geographical_data": {},
+    "references": []
+}
